@@ -7,4 +7,4 @@ I’m currently open to **Summer 2026 internships** and **6-month co-op opportun
 - ⚙️ Tools & Tech: React, Next.js, MySQL, Git, Linux, REST APIs,
 - 📫 Reach me at: pranavguntupalli10@gmail.com
 - 🔭 I’m currently working on: Something Cool
-- 💬 Lets Colab!
+- 💬 Lets Collab!
